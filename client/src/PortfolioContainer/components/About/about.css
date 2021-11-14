@@ -3,9 +3,11 @@
     align-items: center;
     text-align: center;
     justify-content: center;
-    height: 10%;
+    height: 75vh;
     min-height: fit-content;
     background-image: url("../../../assets/Home/bg.jpg");
+    /* background: url("../../../assets/Home/bg.jpg") no-repeat center center/cover; */
+
   }
   .about-parent {
     display: flex;
@@ -68,6 +70,16 @@
     transform: scale(1.07);
     transition: 1s ease-out;
   }
+
+  .about-paragraph{
+    display: flex;
+    flex-wrap: wrap ;
+  }
+
+  .about-content{
+    text-align: center;
+    
+  }
   
   .colz .colz-icon i {
     color: white;
@@ -86,10 +98,13 @@
     .about-details-name {
       font-size: 20px;
     }
+
+   
     .about-details-role .primary-text {
       font: 12px;
     }
     .about-options .btn {
+      
       width: 120px;
       padding: 11px 0;
       z-index: 700;

@@ -1,0 +1,36 @@
+.main-footer {
+    
+    text-align: center;
+    color: white;
+    background-color: #dc3545;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .colz-icon {
+ 
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    
+  }
+
+  .colz-icon a{
+    color: white;
+  }
+
+  .colz-icon a:hover 
+    {
+        color: black;; 
+        text-decoration:none; 
+        cursor:pointer;  
+    }
+ 
+   
+
+  .fa{
+     
+     font-size: 44px;
+  }

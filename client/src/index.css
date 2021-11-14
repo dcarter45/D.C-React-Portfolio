@@ -88,6 +88,7 @@ body ::-webkit-scrollbar-thumb {
   cursor: pointer;
   transition: 0.2s;
   font-family: "Poppins SemiBold";
+  
 }
  
 .btn:active {

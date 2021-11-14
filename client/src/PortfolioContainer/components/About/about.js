@@ -7,18 +7,7 @@ export default function About() {
     <div className="about-container">
       <div className="about-parent">
         <div className="about-details">
-          <div className="colz">
-            <div className="colz-icon">
-              
-              <a href="https://github.com/dcarter45">
-                <i className="fa fa-github fa-lg" />
-              </a>
-              <a href="https://www.linkedin.com/in/darrell-carter-5030a3a9/">
-                <i className="fa fa-linkedin-square fa-lg" />
-              </a>
-              
-            </div>
-          </div>
+          
           <div className="about-details-name">
             <span className="primary-text">
               {" "}
@@ -46,9 +35,12 @@ export default function About() {
                 />
               </h1>
             </span>
-            <span className="about-role-tagline">
-              Knack of building applications with front and back end operations.
-            </span>
+          </div>
+          <div className="about-paragraph">
+            <p className="about-content">
+              
+<div>Your friendly junior developer who is currently attending<br/> the Georgia Tech Coding Bootcamp. All of my life I've been in pursuit of my passion,<br/> i'm glad to say that with software development that I believe I have found that passion<br/>..During my time as a student of the bootcamp, I have learned several new skills<br/> and attributes that i'm eager to put to work in real world applications.</div>
+            </p>
           </div>
         </div>
         <div className="about-picture">
