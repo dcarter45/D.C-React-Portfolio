@@ -7,13 +7,13 @@ function Footer() {
       <div className="container">
             <div className="colz-icon">
               <a href="https://github.com/dcarter45">
-                <i className="fa fa-github" />
+                <i className="fab fa-github fa-6x" />
               </a>
               <a href="https://www.linkedin.com/in/darrell-carter-5030a3a9/">
-                <i className="fa fa-linkedin" />
+                <i className="fab fa-linkedin fa-6x" />
               </a>
               <a href="https://stackoverflow.com/users/14987928/darrell-carter">
-                <i className="fa fa-stack-overflow" />
+                <i className="fab fa-stack-overflow fa-6x" />
               </a>
             </div>
           </div>
