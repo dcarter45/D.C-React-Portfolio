@@ -1,18 +1,36 @@
 .main-header {
     text-align: center;
     color: white;
-    background-color: lightgrey;
+    background-color: white;
     padding-top: 3em;
     position: relative;
     bottom: 0;
     width: auto;
-    height: 950px;
-    
-    
-    
-    
+    height: 676px;
 
-   
-   
   }
+
+  .name{
+    color: black;
+  }
+
+  @media only screen and (max-width: 810px) {
+    .main-header {
+      height: 950px;
+    }
+  
+  .about-details-role{
+    margin-bottom: 50px;
+    color: black;
+  }
+  .about-details-name{
+    font-size: 38px;
+  }
+
+.about-p{
+  color: black;
+  margin: -100px;
+}
+
+}
 

@@ -27,7 +27,7 @@ export default function Header() {
 
   return (
     <div className="main-header">
-      <h1>Darrell Carter</h1>
+      <h1 className="name">Darrell Carter</h1>
       <Navigation  currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
     </div>

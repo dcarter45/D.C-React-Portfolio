@@ -119,7 +119,7 @@
   }
   @media only screen and (max-width: 810px) {
     .about-picture {
-      margin: 0 !important;
+      margin-top: 250px !important;
     }
     .about-parent {
       flex-direction: column-reverse;
@@ -138,6 +138,7 @@
     .about-details-name,
     .about-details-role {
       text-align: center;
+      height: 100px;
     }
   }
   

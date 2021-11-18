@@ -39,7 +39,7 @@ export default function About() {
           <div className="about-paragraph">
             <p className="about-content">
               
-<div>Your friendly junior developer who is currently attending<br/> the Georgia Tech Coding Bootcamp. All of my life I've been in pursuit of my passion,<br/> i'm glad to say that with software development that I believe I have found that passion<br/>..During my time as a student of the bootcamp, I have learned several new skills<br/> and attributes that i'm eager to put to work in real world applications.</div>
+<div className="about-p">Your friendly junior developer who is currently attending<br/> the Georgia Tech Coding Bootcamp. All of my life I've been in pursuit of my passion,<br/> i'm glad to say that with software development that I believe I have found that passion<br/>..During my time as a student of the bootcamp, I have learned several new skills<br/> and attributes that i'm eager to put to work in real world applications.</div>
             </p>
           </div>
         </div>

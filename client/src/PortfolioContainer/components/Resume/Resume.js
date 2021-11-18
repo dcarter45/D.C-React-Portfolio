@@ -260,8 +260,8 @@ const Resume = (props) => {
             </div>
           </div>
 
-          <div className="resume-bullet-details">{getResumeScreens()}</div>
         </div>
+          <div className="resume-bullet-details">{getResumeScreens()}</div>
       </div>
     </div>
   );
