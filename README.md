@@ -15,7 +15,7 @@ Npm start
 ## Deployed Link:
 [React Portfolio Repo](https://github.com/dcarter45/D.C-React-Portfolio)
 
-[ Live app](https://dcarter45.github.io/D.C-React-Portfolio/)
+[Github pages Live app](https://dcarter45.github.io/D.C-React-Portfolio/)
 ## Contributing
 You can Fork, Clone, or Copy this repo down and make changes.
 
