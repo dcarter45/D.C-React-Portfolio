@@ -3,8 +3,8 @@ A portfolio created with React state and components.
 
 ![license MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![Screenshot of Application ](C:\Users\darre\Bootcamp\homework\D.C-React-Portfolio\client\src\PortfolioContainer\components\Portfolio\images\porfolioscreenshot1.PNG)
-![Screenshot of Application ](client\src\PortfolioContainer\components\Portfolio\images\porfolioscreenshot2.PNG)
+![Screenshot of Application ](porfolioscreenshot1.PNG)
+![Screenshot of Application ](porfolioscreenshot2.PNG)
 
 
 ## Installation
