@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "react-typical": "^0.1.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
